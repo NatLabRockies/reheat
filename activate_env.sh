@@ -1,0 +1,1 @@
+source env/Scripts/activate || source env/bin/activate || echo "Failed to activate virtual environment, check if folder 'env' exists."
